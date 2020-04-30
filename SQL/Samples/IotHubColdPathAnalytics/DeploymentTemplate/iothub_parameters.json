@@ -1,0 +1,30 @@
+{
+     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "IoTHubName_in": {
+            "value": "SynapseDemoIoTHub"
+        },
+        "location": {
+            "value": "westus2"
+        },
+        "sku_name": {
+            "value": "B1"
+        },
+        "sku_units": {
+            "value": "1"
+        },
+        "d2c_partitions": {
+            "value": "2"
+        },
+        "storageAccountName_in": {
+            "value": "synapseiotstorage"
+        },
+        "storageContainerName": {
+            "value": "iotmessages"
+        },
+        "storage_endpoint": {
+            "value": "SynapseIoTDemoStorageEndpoint"
+        }
+    }
+}

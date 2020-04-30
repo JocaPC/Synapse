@@ -1,0 +1,5 @@
+start dotnet run SynapseDemoIoTHub LivingRoom dbw7p0nHhmGBr+KZGEtwEjgoU2NBOB6Ia3T57zF6i9g=
+start dotnet run SynapseDemoIoTHub Kitchen t7efjsCUjzc8ZqA0ZJwyHz3R3k3Pl3omMsWKBnQ3UJU=
+start dotnet run SynapseDemoIoTHub Room1 nlzOlMU1QsuoA/Yiz9QU0H6oMmr3LHbZeV1VNNf0e6E=
+start dotnet run SynapseDemoIoTHub Room2 PqXK69UVYefAXcQlxLvGUYtBWYI8zRiLyUfgyk87zIg=
+start dotnet run SynapseDemoIoTHub Room3 KdbH2wGDCvJMLAI9/pfDKMc1/mEbo9aN+6ySajuk6yo=

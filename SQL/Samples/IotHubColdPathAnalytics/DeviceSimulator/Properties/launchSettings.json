@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimulatedDevice": {
+      "commandName": "Project",
+      "commandLineArgs": "SynapseDemoIoTHub Kitchen t7efjsCUjzc8ZqA0ZJwyHz3R3k3Pl3omMsWKBnQ3UJU="
+    }
+  }
+}
